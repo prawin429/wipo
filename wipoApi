@@ -1,0 +1,1 @@
+TI:(Drink OR Beverage OR Juice OR Nectar Or ((Ready to drink) AND (Tea or Coffee))) OR AB:(Drink OR Beverage OR Juice OR Nectar Or ((Ready to drink) AND (Tea or Coffee))) OR CL:(Drink OR Beverage OR Juice OR Nectar Or ((Ready to drink) AND (Tea or Coffee))) AND DP:([01.01.2016 TO 31.12.2020]) AND IC:(A23L)
